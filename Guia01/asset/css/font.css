@@ -1,0 +1,36 @@
+body {
+  font-family: 'Open Sans', 'Lato', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Abril Fatface', cursive, sans-serif;
+}
+
+.move-right {
+  display: block;
+  padding: 10px 15px;
+  background-color: #3498db;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  margin-bottom: 8px;
+}
+
+.move-right-hover {
+  display: block;
+  padding: 10px 15px 10px 25px;
+  background-color: #2980b9;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  margin-bottom: 8px;
+}
+
+.color-10 {
+  background-color: #f4f6f7;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+}
